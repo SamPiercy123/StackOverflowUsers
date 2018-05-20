@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StackOverflowUsers</string>
+    <string name="name">Name: %1$s</string>
+    <string name="identity">ID: %1$s</string>
+    <string name="reputation">Reputation: %1$s</string>
+    <string name="location">Location: %1$s</string>
+    <string name="creation_date">Creation Date: %1$s</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="date_format">dd/MM/yyyy</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="error">Error</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="no_internet">No internet connection</string>
+</resources>

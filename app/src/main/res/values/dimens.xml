@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_padding">5dp</dimen>
+    <dimen name="card_margin_vertical">10dp</dimen>
+    <dimen name="card_margin_horizontal">20dp</dimen>
+    <dimen name="card_padding">10dp</dimen>
+    <dimen name="user_image_edge">128dp</dimen>
+</resources>
